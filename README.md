@@ -1,7 +1,7 @@
 # Hi there, I am Faheem.  
 
 ## 📝 Bio  
-Computer Science student specializing in backend development, data structures & algorithms, and software engineering. Passionate about writing efficient code and building scalable applications.  
+Computer Science student specializing in backend development, data structures algorithms, and software engineering. Passionate about writing efficient code and building scalable applications.  
 
 ## 🚀 Skills  
 ![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=C&logoColor=white) 
