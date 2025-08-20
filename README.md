@@ -1,28 +1,27 @@
 # 👋 Hi, I'm Faheem Jabbar
 
-🚀 **Full-Stack Developer | MERN Enthusiast | Low-Code Explorer**
+🚀 **Full-Stack Developer | MERN Enthusiast | Software Engineer**
 
-I love building modern web apps with clean UI/UX and robust backends. Currently working on **Job Tracker CRM** using the MERN stack and exploring **OutSystems low-code development**.
+I love building modern web apps with clean UI/UX and robust backends.**.
 
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** React, TailwindCSS, Framer Motion  
-- **Backend:** Node.js, Express, MongoDB (Mongoose)  
+- **Frontend:** React, TailwindCSS, Framer Motion,Material UI 
+- **Backend:** Node.js, Express, MongoDB (Mongoose), PostgreSQL 
 - **Other:** JWT Auth, REST APIs, OutSystems  
 
 ---
 
 ## 🌱 What I’m Learning
-- Advanced animations with Framer Motion  
-- Cloud deployment with Vercel & Netlify  
-- Scalable database design  
+- Exploring new web development tools and frameworks  
+- Improving problem-solving and coding best practices  
+- Building projects to strengthen my full-stack skills  
 
 ---
 
 ## 📫 Connect with Me
-- [GitHub](https://github.com/your-username)  
-- [LinkedIn](https://linkedin.com/in/your-link)  
+- [LinkedIn](https://linkedin.com/in/faheeem-jabbar)  
 - 📧 Email: your-email@example.com  
 
 ---
