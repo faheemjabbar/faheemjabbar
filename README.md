@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | MERN Enthusiast | Software Engineer**
 
-I love building modern web apps with clean UI/UX and robust backends.**.
+I love building modern web apps with clean UI/UX and robust backends.
 
 ---
 
@@ -22,7 +22,7 @@ I love building modern web apps with clean UI/UX and robust backends.**.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/faheeem-jabbar)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: faheemjabbar36@gmail.com 
 
 ---
 
