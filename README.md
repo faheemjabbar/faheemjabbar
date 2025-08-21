@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faheem Jabbar
+# Hi, I'm Faheem Jabbar
 
 🚀 **Full-Stack Developer | MERN Enthusiast | Software Engineer**
 
