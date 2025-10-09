@@ -22,7 +22,7 @@ I love building modern web apps with clean UI/UX and robust backends.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/faheeem-jabbar)  
-- 📧 Email: faheemjabbar36@gmail.com 
+- faheemjabbar36@gmail.com 
 
 ---
 
