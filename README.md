@@ -1,6 +1,5 @@
 # Hi, I'm Faheem Jabbar
 
-🚀 **Full-Stack Developer | MERN Enthusiast | Software Engineer**
 
 I love building modern web apps with clean UI/UX and robust backends.
 
